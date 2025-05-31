@@ -125,6 +125,7 @@ This is a conceptual design project developed as part of academic research at th
 ## Author
 
 **Aseem Saxena**  
+aseem.saxena@bath.edu
 Department of Electrical and Electronics Engineering  
 University of Bath
 
