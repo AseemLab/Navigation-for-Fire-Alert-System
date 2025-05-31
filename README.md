@@ -135,4 +135,4 @@ This project is developed for academic and research purposes. Please refer to in
 
 ---
 
-*For technical inquiries or collaboration opportunities, please contact the project author or the University of Bath engineering department.*
+*For technical inquiries or collaboration opportunities, please contact the project author.*
