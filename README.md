@@ -110,26 +110,6 @@ This conceptual design addresses the growing threat of wildfires, which are beco
 - Advanced sensor fusion techniques
 - Regulatory compliance frameworks
 
-## Technical Specifications
-
-### Navigation Accuracy
-- GPS-enabled precise positioning
-- Sub-meter obstacle detection range
-- Real-time path recalculation (< 1 second response time)
-
-### Operational Parameters
-- Extended flight duration for large area coverage
-- All-weather operation capabilities
-- Heat and smoke resistance specifications
-- Communication range for ground station coordination
-
-## Safety and Compliance
-
-- Regulatory compliance with aviation authorities
-- Failsafe mechanisms for hardware failures
-- Emergency landing procedures
-- Ground station coordination protocols
-
 ## References and Research
 
 This project builds upon extensive research in:
